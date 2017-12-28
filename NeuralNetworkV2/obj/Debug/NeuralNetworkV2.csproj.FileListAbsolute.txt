@@ -1,0 +1,12 @@
+C:\Users\verch\Desktop\NeuralNetworkV2\NeuralNetworkV2\bin\Debug\NeuralNetworkV2.exe.config
+C:\Users\verch\Desktop\NeuralNetworkV2\NeuralNetworkV2\bin\Debug\NeuralNetworkV2.exe
+C:\Users\verch\Desktop\NeuralNetworkV2\NeuralNetworkV2\bin\Debug\NeuralNetworkV2.pdb
+C:\Users\verch\Desktop\NeuralNetworkV2\NeuralNetworkV2\obj\Debug\NeuralNetworkV2.exe
+C:\Users\verch\Desktop\NeuralNetworkV2\NeuralNetworkV2\obj\Debug\NeuralNetworkV2.pdb
+C:\Users\verch\Desktop\NeuralNetworkV2\NeuralNetworkV2\obj\Debug\NeuralNetworkV2.csprojResolveAssemblyReference.cache
+C:\Users\verch\Desktop\Machine Learning\NeuralNetworkV2\NeuralNetworkV2\bin\Debug\NeuralNetworkV2.exe.config
+C:\Users\verch\Desktop\Machine Learning\NeuralNetworkV2\NeuralNetworkV2\obj\Debug\NeuralNetworkV2.exe
+C:\Users\verch\Desktop\Machine Learning\NeuralNetworkV2\NeuralNetworkV2\obj\Debug\NeuralNetworkV2.pdb
+C:\Users\verch\Desktop\Machine Learning\NeuralNetworkV2\NeuralNetworkV2\bin\Debug\NeuralNetworkV2.exe
+C:\Users\verch\Desktop\Machine Learning\NeuralNetworkV2\NeuralNetworkV2\bin\Debug\NeuralNetworkV2.pdb
+C:\Users\verch\Desktop\Machine Learning\NeuralNetworkV2\NeuralNetworkV2\obj\Debug\NeuralNetworkV2.csprojResolveAssemblyReference.cache

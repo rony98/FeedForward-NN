@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetworkV2", "NeuralNetworkV2\NeuralNetworkV2.csproj", "{FF953D44-9B66-4520-B636-5A4A01D269EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F4F0BFF3-1821-475A-AAEA-616D04063CDD}"
+	ProjectSection(SolutionItems) = preProject
+		..\Programming\Shooter From The Sky\Shooter From The Sky\Shooter From The Sky\OnlineStorage\OnlineStorageHelper.cs = ..\Programming\Shooter From The Sky\Shooter From The Sky\Shooter From The Sky\OnlineStorage\OnlineStorageHelper.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF953D44-9B66-4520-B636-5A4A01D269EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF953D44-9B66-4520-B636-5A4A01D269EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF953D44-9B66-4520-B636-5A4A01D269EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF953D44-9B66-4520-B636-5A4A01D269EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

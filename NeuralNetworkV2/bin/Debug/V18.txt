@@ -1,0 +1,126 @@
+Starting training
+Saving Data, Curr: 1
+Saving Data, Curr: 2
+Saving Data, Curr: 3
+Saving Data, Curr: 4
+Saving Data, Curr: 5
+Saving Data, Curr: 6
+Saving Data, Curr: 7
+Saving Data, Curr: 8
+Saving Data, Curr: 9
+epoch = 10  error = 0.0524115743685438
+Saving Data, Curr: 10
+Saving Data, Curr: 11
+Saving Data, Curr: 12
+Saving Data, Curr: 13
+Saving Data, Curr: 14
+Saving Data, Curr: 15
+Saving Data, Curr: 16
+Saving Data, Curr: 17
+Saving Data, Curr: 18
+Saving Data, Curr: 19
+epoch = 20  error = 0.0520871311806526
+Saving Data, Curr: 20
+Saving Data, Curr: 21
+Saving Data, Curr: 22
+Saving Data, Curr: 23
+Saving Data, Curr: 24
+Saving Data, Curr: 25
+Saving Data, Curr: 26
+Saving Data, Curr: 27
+Saving Data, Curr: 28
+Saving Data, Curr: 29
+epoch = 30  error = 0.0519744634094772
+Saving Data, Curr: 30
+Saving Data, Curr: 31
+Saving Data, Curr: 32
+Saving Data, Curr: 33
+Saving Data, Curr: 34
+Saving Data, Curr: 35
+Saving Data, Curr: 36
+Saving Data, Curr: 37
+Saving Data, Curr: 38
+Saving Data, Curr: 39
+epoch = 40  error = 0.0518515445174295
+Saving Data, Curr: 40
+Saving Data, Curr: 41
+Saving Data, Curr: 42
+Saving Data, Curr: 43
+Saving Data, Curr: 44
+Saving Data, Curr: 45
+Saving Data, Curr: 46
+Saving Data, Curr: 47
+Saving Data, Curr: 48
+Saving Data, Curr: 49
+epoch = 50  error = 0.0517600757623566
+Saving Data, Curr: 50
+Saving Data, Curr: 51
+Saving Data, Curr: 52
+Saving Data, Curr: 53
+Saving Data, Curr: 54
+Saving Data, Curr: 55
+Saving Data, Curr: 56
+Saving Data, Curr: 57
+Saving Data, Curr: 58
+Saving Data, Curr: 59
+epoch = 60  error = 0.0515592779113725
+Saving Data, Curr: 60
+Saving Data, Curr: 61
+Saving Data, Curr: 62
+Saving Data, Curr: 63
+Saving Data, Curr: 64
+Saving Data, Curr: 65
+Saving Data, Curr: 66
+Saving Data, Curr: 67
+Saving Data, Curr: 68
+Saving Data, Curr: 69
+epoch = 70  error = 0.0517825296876505
+Saving Data, Curr: 70
+Saving Data, Curr: 71
+Saving Data, Curr: 72
+Saving Data, Curr: 73
+Saving Data, Curr: 74
+Saving Data, Curr: 75
+Saving Data, Curr: 76
+Saving Data, Curr: 77
+Saving Data, Curr: 78
+Saving Data, Curr: 79
+epoch = 80  error = 0.0514799644645928
+Saving Data, Curr: 80
+Saving Data, Curr: 81
+Saving Data, Curr: 82
+Saving Data, Curr: 83
+Saving Data, Curr: 84
+Saving Data, Curr: 85
+Saving Data, Curr: 86
+Saving Data, Curr: 87
+Saving Data, Curr: 88
+Saving Data, Curr: 89
+epoch = 90  error = 0.0510193184865865
+Saving Data, Curr: 90
+Saving Data, Curr: 91
+Saving Data, Curr: 92
+Saving Data, Curr: 93
+Saving Data, Curr: 94
+Saving Data, Curr: 95
+Saving Data, Curr: 96
+Saving Data, Curr: 97
+Saving Data, Curr: 98
+Saving Data, Curr: 99
+epoch = 100  error = 0.050998740259058
+Saving Data, Curr: 100
+Saving Data, Curr: 101
+Saving Data, Curr: 102
+Saving Data, Curr: 103
+Saving Data, Curr: 104
+Saving Data, Curr: 105
+Saving Data, Curr: 106
+Saving Data, Curr: 107
+Saving Data, Curr: 108
+Saving Data, Curr: 109
+epoch = 110  error = 0.0506194113585597
+Saving Data, Curr: 110
+Saving Data, Curr: 111
+Saving Data, Curr: 112
+Saving Data, Curr: 113
+Saving Data, Curr: 114
