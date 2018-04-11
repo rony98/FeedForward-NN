@@ -1,6 +1,6 @@
 # FeedForward Neural Network
 
-A Feed Forward Neural Network which uses backpropagation to train weights/biases for digit recognition. The project includes training data, containing thousands of images of digits and integers showing what digits are within the images. 
+A Feed Forward Neural Network which uses backpropagation to train weights/biases for digit recognition. The project includes training data containing thousands of images of digits and, included with each image is an integer representing what digit is within the image.
 
 Additionally, the neural network has features that allow it to be updated real time from anywhere by using the Neural Network Extension android app which is a separate android project. 
 
